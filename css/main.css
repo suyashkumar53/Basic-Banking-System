@@ -1,0 +1,78 @@
+.bg-dark{
+    background-color: cadetblue;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-family: monospace;
+}
+.navbar-dark  .navbar-nav  .nav-link{
+    font-weight: 700;
+    font-size:  14px;
+    text-transform: uppercase;
+}
+.navbar-dark .navbar-nav .nav-item{
+    margin: 0 15px;
+}
+.btn{
+    color: coral;
+}
+.navbar-nav2{
+    background-color: black;
+    border: red;
+    border-radius: 20px;
+    margin-top: 20px;
+    opacity: 50%;
+}
+.navbar3{
+    float:right;
+}
+h1{
+    margin-left: 35%;
+    font-weight: 700;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+.body{
+    background-image: url('Building.jpg');
+}
+.mat{
+    width:25%;
+    float:left;
+    background-color:coral;
+    margin:10px;
+    height:250px;
+}
+.lat{
+    width:25%;
+    float:right;
+    background-color:coral;
+    margin:10px;
+    margin-right: 30px;
+    height: 250px;
+}
+.trans{
+    width:43%;
+    float:left;
+    background-image: url("Building.jpg");
+    margin:10px;
+    margin-right: 5px;
+    height: 150px;
+    text-align: center;
+    padding: 150px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color:white;
+    font:bolder;
+
+}
+h3{
+    background-color:rgb(14, 1, 4);
+}
+
+a:hover{
+    background-color:rgb(163, 163, 133);
+}
+.Transact{
+    background-color:black;
+    text-decoration: none;
+}
